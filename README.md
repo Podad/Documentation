@@ -88,7 +88,7 @@ sudo systemctl restart apache2
    http://localhost/glpi
 
 
-![[1.png]]
+![](https://github.com/Podad/GLPI/blob/main/1.png?raw=true)
 
    * Cliquer sur le bouton "Continuer >"
 
