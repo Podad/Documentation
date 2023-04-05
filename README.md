@@ -92,25 +92,25 @@ sudo systemctl restart apache2
 
    * Cliquer sur le bouton "Continuer >"
 
-   ![[2.png]]
+![](https://github.com/Podad/GLPI/blob/main/2.png?raw=true)
 
    * Cliquer sur Installer
 
-![[3.png]]
+![](https://github.com/Podad/GLPI/blob/main/3.png?raw=true)
 
    * Vérifier qui tout est installer sauf les extensions optionnelles
 
-![[4.png]]
+![](https://github.com/Podad/GLPI/blob/main/4.png?raw=true)
 
    * Remplir les champs avec les informations suivantes mot de passe : glpi
 
-![[5.png]]
+![](https://github.com/Podad/GLPI/blob/main/5.png?raw=true)
 
    * Cliquer sur le bouton "Continuer >" jusqu'à la fin
 
    * Se connecter à GLPI
 
-![[6.png]]
+![](https://github.com/Podad/GLPI/blob/main/6.png?raw=true)
 
    * supprimer le fichier d'installation
 
