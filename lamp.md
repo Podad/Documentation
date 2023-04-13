@@ -16,7 +16,7 @@ sudo apt install php-curl php-gd php-intl php-json php-mbstring php-xml php-zip
 ```
 
 * Création d'un hôte virtuel
-* Créé un dossier /etc/apache2/sites-available/example.com.conf
+* Créé un fichier /etc/apache2/sites-available/example.com.conf
 
 example.com.conf
 ```apacheconf
