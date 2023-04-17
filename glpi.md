@@ -66,7 +66,7 @@ sudo nano /etc/apache2/sites-available/glpi.conf
 
    * Ajouter le contenu suivant
 
-```bash
+```apacheconf
     <VirtualHost *:80>
         ServerAdmin webmaster@localhost
         DocumentRoot /var/www/html/glpi
